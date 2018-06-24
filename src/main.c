@@ -3,9 +3,9 @@
 #include <locale.h> 
 #include <time.h> 
 #include "function.h"
-
+#include "function.c"
 
 int main()
-{   menu();
+{   menu()
 	return 0;
 }
