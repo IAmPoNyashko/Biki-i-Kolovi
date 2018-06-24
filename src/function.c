@@ -137,7 +137,7 @@ int bulls_cows(int *a, int *b, int *c, int *d)
         }
     }
     
-    printf("Поздравляем, вы выиграли!\nКоличество попыток: %d!\n\nВозвращение в меню...\n\n", sc);
+    printf("Congrarularions, you win!\nPopitki: %d!\n\nBack for menu...\n\n", sc);
     sleep(2);
     menu();
 
